@@ -2,7 +2,7 @@ import os
 
 os.system("cls || clear")
 
-peso = int(input("Digite seu peso: "))
+peso = float(input("Digite seu peso: "))
 
 if peso < 40: 
     print("Magro.")

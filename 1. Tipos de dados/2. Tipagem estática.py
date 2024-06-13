@@ -5,7 +5,7 @@ idade: int = 20
 peso: float = 50.200
 altura: float = 1.62
 
-print(nome)
+print(f"Nome: {nome}")
 print(idade)
 print(peso)
 print(altura)
