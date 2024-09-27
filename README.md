@@ -1,3 +1,5 @@
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/SENAI_logo_2024.png" alt="Logo SENAI" /></p>
+
 # TCC - Sistema de Gestão de Projetos
 
 ## Descrição do Projeto
